@@ -4,7 +4,7 @@ This project demonstrates how to set up and use **Tailwind CSS** using the offic
 
 ---
 
-## 📁 Project Structure
+## 📁 Project Structures
 project-root/
 ├── node_modules/
 ├── src/
