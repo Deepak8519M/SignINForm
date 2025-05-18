@@ -32,7 +32,7 @@ project-root/
 
 ## ⚙️ Setup Instructions
 
-### ✅ Step 1: Initialize Project
+### ✅ Step 1: Initialize Project using:
 
 npm init -y
 
