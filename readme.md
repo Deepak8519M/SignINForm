@@ -71,7 +71,7 @@ Use the Live Server VS Code extension to auto-reload HTML as you save changes.
 You must always run the npx tailwindcss ... --watch command while developing, or automate it via a script in package.json.
 Only used Tailwind classes are included in the final output.css — it’s optimized automatically.
 
-lorem ipsum here are you
+
 📌 Recommended VS Code Extensions
 Tailwind CSS IntelliSense → Autocompletion, hover info
 Prettier → Format HTML/CSS automatically
