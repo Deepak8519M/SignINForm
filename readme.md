@@ -73,7 +73,7 @@ Only used Tailwind classes are included in the final output.css — it’s optim
 
 
 📌 Recommended VS Code Extensions
-Tailwind CSS IntelliSense → Autocompletion (hover info), 
+Tailwind CSS IntelliSense → Autocompletion , 
 Prettier → Format HTML/CSS automatically
 Live Server → Instant browser reload on save
 
